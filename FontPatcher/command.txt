@@ -1,0 +1,4 @@
+fontforge --script .\font-patcher --complete ..\Original\IntelOneMono-Regular.ttf
+
+
+this is inside the FontPatcher older
